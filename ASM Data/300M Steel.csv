@@ -1,0 +1,7 @@
+Tempering temperature (°C),Tempering temperature (°F),Tensile strength (MPa),Tensile strength (ksi),Yield strength (MPa),Yield strength (ksi),Elongation in 50 mm (2 in.),Reduction in area,Charpy V-notch impact energy (J),Charpy V-notch impact energy (ft·lbf),Hardness (HRC),HV (GPa)
+90,200,2340,340,1240,180,6,10,17.6,13,56,19.40876656
+205,400,2140,310,1650,240,7,27,21.7,16,54.5,18.88888889
+260,500,2050,297,1670,242,8,32,24.4,18,54,18.71559633
+315,600,1990,289,1690,245,9.5,34,29.8,22,53,18.36901121
+370,700,1930,280,1620,235,9,32,23.7,17.5,51,17.67584098
+425,800,1790,260,1480,215,8.5,23,13.6,10,45.5,15.76962283

@@ -1,0 +1,7 @@
+Tempering temperature (°C),Tempering temperature (°F),Tensile strength (MPa),Tensile strength (ksi),Yield strength (MPa),Yield strength (ksi),"Elongation in 50 mm (2 in.), %","Reduction in area, %",Hardness (HB),Hardness (HRC),Izod impact energy (J),Izod impact energy (ft·lbf),HV (GPa)
+205,400,1980,287,1860,270,11,39,520,53,20,15,18.36901121
+315,600,1760,255,1620,235,12,44,490,49.5,14,10,17.1559633
+425,800,1500,217,1365,198,14,48,440,46,16,12,15.94291539
+540,1000,1240,180,1160,168,17,53,360,39,47,35,13.51681957
+650,1200,1020,148,860,125,20,60,290,31,100,74,10.74413863
+705,1300,860,125,740,108,23,63,250,24,102,75,8.318042813

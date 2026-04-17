@@ -1,0 +1,9 @@
+Grade,Condition,Tensile Strength (MPa),Tensile Strength (ksi),Yield Strength (MPa),Yield Strength (ksi),Elongation in 50 mm (%),Reduction in Area (%),Hardness (HB),HV (GPa)
+414,Annealed bar,795,115,620,90,20,60,235,22.75739042
+414,Cold drawn bar,895,130,795,115,15,58,270,26.14678899
+420,Annealed bar,655,95,345,50,25,55,195,18.88379205
+420,Annealed and cold drawn,760,110,690,100,14,40,228,22.0795107
+431,Annealed bar,860,125,655,95,20,55,260,25.1783894
+431,Annealed and cold drawn,895,130,760,110,15,35,270,26.14678899
+440C,Annealed and cold drawn bar,860,125,690,100,7,20,260,25.1783894
+440C,Hardened and tempered at 315 °C (600 °F)”,1970,285,1900,275,2,10,580,56.16717635
